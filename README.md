@@ -1,0 +1,2 @@
+# netacademiaproject
+Practice project
